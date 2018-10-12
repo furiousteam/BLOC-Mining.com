@@ -1,0 +1,8 @@
+{
+    "lhost": "127.0.0.1",
+    "lport": 7777,
+    "domain": "localhost",
+    "pool": "bloc-mining.eu:4444",
+    "addr": "abLoc5jeufY8yWkZgjDJnP6DuuhyGE3jb5F6kmKKqqynhbUDgfvvC2FjdP5DjjnoW2R9aecMDETTbdMuFNFzHRWvGNkzHGKHMT9",
+    "pass": "x"
+}
