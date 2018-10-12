@@ -1,0 +1,8 @@
+# Archives
+*.tar.gz
+*.zip
+
+# Dependency directories
+node_modules/
+
+config.json
